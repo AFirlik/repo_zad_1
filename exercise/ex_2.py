@@ -15,3 +15,10 @@ print("Obwod trojkata wynosi " + str(obwod) + ", zas pole wynosi " + str(pole) +
 obwod = 2*a + 2*b
 pole = a*b
 print("Obwod prostokata wynosi " + str(obwod) + ", zas pole wynosi " + str(pole) + ".")
+
+# kolo
+pi = 3.14
+r = 10
+obwod = 2*pi*r
+pole = pi*r**2
+print("Obwod koła wynosi " + str(obwod) + ", zas pole wynosi " + str(pole) + ".")
