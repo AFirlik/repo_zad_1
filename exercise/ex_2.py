@@ -28,3 +28,8 @@ d = 16
 obwod = a+b+c+d
 pole = ((a+b)*h)/2
 print("Obwod trapezu wynosi " + str(obwod) + ", zas pole wynosi " + str(pole) + ".")
+
+# romb
+obwod = 2*a + 2*b
+pole = a*h
+print("Obwod rombu wynosi " + str(obwod) + ", zas pole wynosi " + str(pole) + ".")
