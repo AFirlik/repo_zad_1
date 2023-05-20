@@ -19,3 +19,9 @@ studenci = ["Ania", "Kuba", "Piotr", "Jan"]
 # oczekiwany rezultat: Liczba studentow wynosi: 4
 liczba_studentow = len(studenci)
 print("Liczba studentow wynosi: " + str(liczba_studentow))
+
+# zadanie 1.4
+
+studenci = ["Ania", "Kasia", "Piotr", "Tomek"]
+for x in studenci:
+ print("Hello " + x)
